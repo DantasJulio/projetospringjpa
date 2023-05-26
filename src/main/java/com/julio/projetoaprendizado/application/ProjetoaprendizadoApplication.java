@@ -1,4 +1,4 @@
-package com.julio.projetoaprendizado;
+package com.julio.projetoaprendizado.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
